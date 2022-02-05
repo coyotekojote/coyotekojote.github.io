@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://coyotekojote.me/</loc>
+    <loc>https://coyotekojote.me/</loc>
     <lastmod>2022-02-05T21:56:07+09:00</lastmod>
   </url><url>
-    <loc>http://coyotekojote.me/posts/</loc>
+    <loc>https://coyotekojote.me/posts/</loc>
     <lastmod>2022-02-05T21:56:07+09:00</lastmod>
   </url><url>
-    <loc>http://coyotekojote.me/posts/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</loc>
+    <loc>https://coyotekojote.me/posts/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</loc>
     <lastmod>2022-02-05T21:56:07+09:00</lastmod>
   </url><url>
-    <loc>http://coyotekojote.me/categories/</loc>
+    <loc>https://coyotekojote.me/categories/</loc>
   </url><url>
-    <loc>http://coyotekojote.me/tags/</loc>
+    <loc>https://coyotekojote.me/tags/</loc>
   </url>
 </urlset>

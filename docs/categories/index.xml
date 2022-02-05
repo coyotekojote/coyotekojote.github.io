@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on coyotekojote.me</title>
-    <link>http://coyotekojote.me/categories/</link>
+    <link>https://coyotekojote.me/categories/</link>
     <description>Recent content in Categories on coyotekojote.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>js</language><atom:link href="http://coyotekojote.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>js</language><atom:link href="https://coyotekojote.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
