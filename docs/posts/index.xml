@@ -6,7 +6,19 @@
     <description>Recent content in Posts on coyotekojote.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>js</language>
-    <lastBuildDate>Sat, 10 Dec 2022 19:39:32 +0900</lastBuildDate><atom:link href="https://coyotekojote.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 18:19:31 +0900</lastBuildDate><atom:link href="https://coyotekojote.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自分ReleaseNotes202301</title>
+      <link>https://coyotekojote.me/posts/%E8%87%AA%E5%88%86releasenotes202301/</link>
+      <pubDate>Wed, 01 Feb 2023 18:19:31 +0900</pubDate>
+      
+      <guid>https://coyotekojote.me/posts/%E8%87%AA%E5%88%86releasenotes202301/</guid>
+      <description>2023-01のリリースノートです
+今月からYYYYMMの方式でナンバリングすることにしました 自分の年齢基準でも良いんですが、それだといつ書いたものか追いにくいので 仕事 年が変わったので新たな評価をもらい、新たな目標を立てています 今年もやるぞ〜という気持ちになれているのは良いことだ 本 読んだ ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用 料理の四面体
+読んでる 単体テストの考え方／使い方
+麻雀 HQ麻雀主催の、VS研コラボ大会に出場した 5半荘で6人のプロと同卓 1半荘目から順に、曽木p、竹内p、吉田p、坂本p、浅井p&amp;amp;山崎 淑弥p 結果は2012のトップラス麻雀 雀魂は相変わらず雀豪2をウロウロ その他 ギター 何だかんだあってバンドを組んだので、最近は毎日のように弾いてる メルカリで機材を売るとメルカリで機材を買えるということを覚えてエフェクターを入れ替え中 展覧会 今月はいくつか展覧会に行った 諏訪敦 眼窩裏の火事 @府中市美術館 佐伯祐三 自画像としての風景 @東京ステーションギャラリー </description>
+    </item>
+    
     <item>
       <title>自分リリースノート0.29.9</title>
       <link>https://coyotekojote.me/posts/%E8%87%AA%E5%88%86%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%880.29.9/</link>
