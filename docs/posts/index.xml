@@ -6,7 +6,18 @@
     <description>Recent content in Posts on coyotekojote.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>js</language>
-    <lastBuildDate>Tue, 28 Feb 2023 20:25:51 +0900</lastBuildDate><atom:link href="https://coyotekojote.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 17:43:40 +0900</lastBuildDate><atom:link href="https://coyotekojote.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自分ReleaseNotes202410</title>
+      <link>https://coyotekojote.me/posts/%E8%87%AA%E5%88%86releasenotes202410/</link>
+      <pubDate>Thu, 31 Oct 2024 17:43:40 +0900</pubDate>
+      
+      <guid>https://coyotekojote.me/posts/%E8%87%AA%E5%88%86releasenotes202410/</guid>
+      <description>2024-10のリリースノートです
+お久しぶりです。 更新があまりに気まぐれすぎないか？と思いつつ、思い立ったので書きます。
+仕事 最近は情シス業務を楽にするツールを開発しています Next.js書いてみたり、社内のアプリ開発基盤にうまいこと乗っかれないか試してみたり 会社のフェーズも変わってきたので、これから何をやっていくかをよく考えなくてはいけない 本 読んだ Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考 社内勉強会で読了 テスト駆動開発周りの知見を別角度から補完できるので良かった DI周りの話がいまいちピンとこないのは、Railsを書いてるからなんだろうか 読んでる ドーパミン中毒 麻雀 ここ一年ちょいで雀聖1まで上ったあと雀豪2に落ちました まだまだ牌理も弱くて不安定な証拠ですね リアルだとノーレート雀荘対抗戦に出るなどしています </description>
+    </item>
+    
     <item>
       <title>自分ReleaseNotes202302</title>
       <link>https://coyotekojote.me/posts/%E8%87%AA%E5%88%86releasenotes202302/</link>
